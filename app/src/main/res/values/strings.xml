@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dinocoding Badminton Racket Store</string>
+    <string name="nama_raket">Nama Raket</string>
+    <string name="harga_raket">Harga</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="nama_detail">Nama</string>
+    <string name="harga_detail">Harga</string>
+    <string name="detail_detail">Detail</string>
+    <string name="splash_text">DINOMINTON STORE</string>
+</resources>
